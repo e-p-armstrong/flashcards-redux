@@ -4,8 +4,7 @@ Created while working through Codecademy's Full Stack Engineer Course, this chal
 
 I would not actually recommend using this for anything serious as it does not have a backend and thus will not remember all the stuff you enter into it. Unless you're like me, and have hundreds of permanently-open Chrome tabs, merely take this as part of my portfolio.
 
-                     | |
-Boilerplate is below \/\/
+Boilerplate is below
 
 ## To Run
 
