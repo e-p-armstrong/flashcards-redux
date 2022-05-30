@@ -1,3 +1,9 @@
+# I can do redux too!
+
+Created while working through Codecademy's Full Stack Engineer Course, this challenge project involved adding redux-managed state to a react application. I worked through it, and felt I might as well post my results to GitHub. 
+
+I would not actually recommend using this for anything serious as it does not have a backend and thus will not remember all the stuff you enter into it. Unless you're like me, and have hundreds of permanently-open Chrome tabs, merely take this as part of my portfolio.
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
